@@ -4975,6 +4975,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4602573435344087501, guid: b5f86677ed1f7114eb701267032e94cb,
+        type: 3}
+      propertyPath: m_CarveOnlyStationary
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5100535334162466600, guid: b5f86677ed1f7114eb701267032e94cb,
         type: 3}
       propertyPath: m_Name
@@ -5954,6 +5959,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Joueur
       objectReference: {fileID: 0}
+    - target: {fileID: 6007151631921612208, guid: 629469b4a9dbd504496dd1f5e58e3ace,
+        type: 3}
+      propertyPath: strength
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6007151631921612208, guid: 629469b4a9dbd504496dd1f5e58e3ace,
+        type: 3}
+      propertyPath: pushLayers.m_Bits
+      value: 64
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6121,6 +6136,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4602573435344087501, guid: b5f86677ed1f7114eb701267032e94cb,
+        type: 3}
+      propertyPath: m_CarveOnlyStationary
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5100535334162466600, guid: b5f86677ed1f7114eb701267032e94cb,
         type: 3}
       propertyPath: m_Name
@@ -6224,6 +6244,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4602573435344087501, guid: b5f86677ed1f7114eb701267032e94cb,
+        type: 3}
+      propertyPath: m_CarveOnlyStationary
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5100535334162466600, guid: b5f86677ed1f7114eb701267032e94cb,
         type: 3}
       propertyPath: m_Name
